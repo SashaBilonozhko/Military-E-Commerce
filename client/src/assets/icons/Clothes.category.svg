@@ -1,0 +1,16 @@
+<svg width="102" height="101" viewBox="0 0 102 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.4854 3.07186L31.5442 3.09104L31.6044 3.10531L37.1537 4.42198L37.4977 4.50359L37.8419 4.42302L43.4669 3.10635L43.5062 3.09714L43.5451 3.08581L48.8978 1.52432L73.5 4.30264V16.4434L61.033 17.9314L59.7972 18.0789L59.7141 19.3207L56.7672 63.3856L48.6496 64.6624H27.0273L19.2158 63.3882L15.2833 19.2876L15.1752 18.0756L13.967 17.9314L1.5 16.4434V4.3064L26.7483 1.52641L31.4854 3.07186Z" stroke="black" stroke-width="3"/>
+<ellipse cx="30.4688" cy="24.102" rx="2.10938" ry="2.12665" stroke="black"/>
+<path d="M31.5236 26.2287L32.9298 31.1909H28.0079L29.4142 26.2287H31.5236Z" stroke="black"/>
+<path d="M31.5236 21.9754L32.9298 17.0132H28.0079L29.4142 21.9754H31.5236Z" stroke="black"/>
+<path d="M28.3594 25.1653L23.4375 26.5831L23.4375 21.6209L28.3594 23.0387L28.3594 25.1653Z" stroke="black"/>
+<path d="M32.5781 25.1653L37.5 26.5831L37.5 21.6209L32.5781 23.0387L32.5781 25.1653Z" stroke="black"/>
+<path d="M88.0627 21.7197L87.8307 20.5H86.5891H43.9225H42.6809L42.4489 21.7197L35.5032 58.2392L35.4874 58.3223L35.481 58.4067L32.5042 97.8872L32.3826 99.5H34H47.8915H48.9813L49.318 98.4636L64.8572 50.6429H67.1215L81.6814 98.4371L82.0052 99.5H83.1163H98H99.6792L99.4905 97.8314L95.0254 58.3509L95.019 58.2947L95.0085 58.2392L88.0627 21.7197Z" stroke="white" stroke-width="3"/>
+<path d="M63.7674 46.5941H62.6705L62.338 47.6393L46.7946 96.5H35.6148L38.4658 57.8757L45.3738 23.5H85.7784L92.0498 57.8893L96.3248 96.5H84.2342L69.67 47.6654L69.3505 46.5941H68.2326H63.7674Z" fill="white" stroke="black" stroke-width="3"/>
+<path d="M81 57L79 61.5V66L81 70.5H86.5L88.5 66V61.5L86.5 57H81Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M38 68.5L45 67L48.5 61H52.5V56.5L46.5 55L39 56.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M36.5 90.5H43.5L45.5 96" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M73.5 24L69 28.5H61V32.5H66L70.5 36.5H76.5L79.5 32.5H86.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M47 38L53 35V28.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M95 90.5H87.5L85 96" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"/>
+</svg>
